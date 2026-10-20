@@ -1,6 +1,6 @@
 {
-  "version": "12.07.85",
+  "version": "12.20.05",
   "download_url": "https://github.com/mehranmoradi13/GameKids-Updates/releases/download/v11.35.84/GameKids.exe",
-  "changelog": "آپدیت شدن بدهکاران و بستانکاران وهمچنین تغیرات جزئِ در برنامه\nرفع چند باگ گزارش روزانه",
+  "changelog": "آپدیت شدن بدهکاران و بستانکاران وهمچنین تغیرات جزئِ در برنامه\nرفع چند باگ گزارش روزانه\n اضافه شدن مدت30 دقیقه به زمان خروج بازی",
   "force_update": false
 }
