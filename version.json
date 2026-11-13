@@ -1,6 +1,6 @@
 {
   "version": "13.70.43",
-  "download_url": "https://github.com/mehranmoradi13/GameKids-Updates/releases/download/v13.70.43/GameKids.exe",
-  "changelog": "آپدیت شدن بدهکاران و بستانکاران و همچنین تغییرات جزئی در برنامه\nاضافه شدن مدت ۳۰ دقیقه به زمان خروج بازی\nدرست کردن زمان‌های بازی برای تمامی خانه‌بازی‌ها با ساعت مختلف\nتکمیل شدن پک پک به عنوان پک مادر و اختصاص به کودکان\nتخصیص منوی کشویی و ستونی به انتخاب کاربر برای مدیریت پک‌های تخصیص‌شده\nایجاد دکمه با ایموجی برای کاربری راحت خوراکی‌ها\nایجاد ایموجی‌های زیبا برای خوراکی‌ها\nرفع جزئی چند باگ به گزارش کاربران",
+  "download_url": "https://github.com/mehranmoradi13/GameKids-Updates/releases/download/v13.70.45/GameKids.exe",
+  "changelog": "رفع باگ ثبت خوراکی ها",
   "force_update": false
 }
